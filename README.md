@@ -9,7 +9,7 @@ Welcome to my Microsoft SQL Server project, centered around the AdventureWorks 2
 
 2. **String Manipulation:** Through the use of string concatenation, I enhanced the presentation of data and facilitated a deeper understanding of relational information.
 
-3. **Date and Time Functions:** Implemented functions such as DATEDIFF and DATEPART to calculate date differences and extract specific components from datetime values to measure time intervals, identify patterns, and gain insights into historical trends.
+3. **Date and Time Functions:** I implemented functions such as DATEDIFF and DATEPART to calculate date differences and extract specific components from datetime values to measure time intervals, identify patterns, and gain insights into historical trends.
 
 5. **Conditional Logic and Subqueries:** Through the implementation of CASE statements and subqueries, I crafted dynamic queries to address specific business scenarios, enabling tailored analysis and decision-making.
 
