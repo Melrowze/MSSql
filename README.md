@@ -1,5 +1,5 @@
 ## AdventureWorks 2019 SQL Server Project: Analyzing Data, Answering Business Questions and Implementing Solutions
-
+![stephen-dawson-qwtCeJ5cLYs-unsplash](https://github.com/Melrowze/Microsoft-SQL-Server-Data-Analysis-Project-/assets/44920093/776e258c-2de0-4e2a-924e-02bb8a08c543)
 ## Description:
 ---
 Welcome to my Microsoft SQL Server project, centered around the AdventureWorks 2019 database. Throughout this project, I employed a diverse range of SQL techniques and functions to extract valuable insights and address business challenges. 
