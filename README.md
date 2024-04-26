@@ -1,4 +1,7 @@
-# MSSql_Project
+# MSSql_Project Data Analysis with Adventure Works 2019 Database
+
+
+
 
 Question 1
 
