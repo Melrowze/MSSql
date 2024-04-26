@@ -9,13 +9,13 @@ Welcome to my Microsoft SQL Server project, centered around the AdventureWorks 2
 
 2. **String Manipulation:** Through the use of string concatenation, I enhanced the presentation of data and facilitated a deeper understanding of relational information.
 
-3. **Temporal Analysis:** By utilizing functions such as DATEDIFF and DATEPART, I conducted temporal analysis to measure time intervals, identify patterns, and gain insights into historical trends.
+3. **Date and Time Functions:** Implemented functions such as DATEDIFF and DATEPART to calculate date differences and extract specific components from datetime values to measure time intervals, identify patterns, and gain insights into historical trends.
 
-4. **Conditional Logic and Subqueries:** Through the implementation of CASE statements and subqueries, I crafted dynamic queries to address specific business scenarios, enabling tailored analysis and decision-making.
+5. **Conditional Logic and Subqueries:** Through the implementation of CASE statements and subqueries, I crafted dynamic queries to address specific business scenarios, enabling tailored analysis and decision-making.
 
-5. **View Creation:** To streamline data access and enhance efficiency, I created views which capture complex queries, providing a simplified and optimized interface for data retrieval.
+6. **View Creation:** To streamline data access and enhance efficiency, I created views which capture complex queries, providing a simplified and optimized interface for data retrieval.
 
-6. **Price Policy Implementation:** I also implemented a new price policy within the database, reflecting innovative pricing strategies to meet evolving market demands.
+7. **Price Policy Implementation:** I also implemented a new price policy within the database, reflecting innovative pricing strategies to meet evolving market demands.
 
 Throughout the project, I employed critical thinking and problem-solving skills which are essential in identifying opportunities for data analysis, formulating queries to extract relevant information, and interpreting results to make informed business decisions.
 
